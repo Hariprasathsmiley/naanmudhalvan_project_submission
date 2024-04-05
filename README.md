@@ -1,6 +1,3 @@
-implemented by Hariprasath D
-college Name:sri krishna engineering college (college code:4120)
-Roll no: 412021104003
+# MusicBeats
 
-Admin username: admin
-Admin Password: admin
+This is a Music Website made with Python Django Framework.
